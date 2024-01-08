@@ -1,0 +1,6 @@
+@Event_Bridge_HostAddress = http://localhost:5250
+
+GET {{Event_Bridge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
